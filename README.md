@@ -1,11 +1,11 @@
 # License Template
-This is a project template for creating licenses using [tmplt](https://github.com/tmrts/tmplt)
+This is a project template for creating licenses using [boilr](https://github.com/tmrts/boilr)
 
 ## Install
-`tmplt download tmrts/tmplt-license license`
+`boilr download tmrts/boilr-license license`
 
 ## Usage
-`tmplt use license <my-project-dir>`
+`boilr use license <my-project-dir>`
 
 ## More Information
-For more information please check [tmplt](https://github.com/tmrts/tmplt)
+For more information please check [boilr](https://github.com/tmrts/boilr)
